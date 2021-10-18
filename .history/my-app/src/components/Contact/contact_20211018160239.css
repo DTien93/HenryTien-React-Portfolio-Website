@@ -1,0 +1,39 @@
+.contact {
+    height: 100vh;
+    position: relative;
+}
+
+.contact-background {
+    width: 20px;
+    height:100%;
+    background-color: #59b256;
+    position: absolute;
+}
+.contact-wrapper{
+    padding: 50px;
+    display: flex;
+}
+
+.contact-wrapper__left {
+    flex: 1;
+}
+
+.contact-wrapper__right {
+    flex: 1;
+}
+
+.contact-wrapper__title {
+    font-size: 60px;
+    width: 80%;
+}
+
+.contact-info__item {
+    display: flex; 
+    align-items: center;
+}
+
+.contact-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}

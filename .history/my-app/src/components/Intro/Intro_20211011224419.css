@@ -1,0 +1,11 @@
+.intro {
+    display: flex;
+}
+
+.intro-left {
+    flex: 2
+}
+
+.intro-right {
+    flex: 1;
+}

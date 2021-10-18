@@ -1,0 +1,13 @@
+.intro {
+    display: flex;
+    width: ;: 100vh;
+    background-color: aqua;
+}
+
+.intro-left {
+    flex: 1
+}
+
+.intro-right {
+    flex: 1;
+}
